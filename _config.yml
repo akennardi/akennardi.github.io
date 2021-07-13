@@ -2,3 +2,5 @@ title: Alvin Kennardi
 description: test
 github_username: akennardi
 use_math: true
+
+theme: jekyll-theme-minimal
